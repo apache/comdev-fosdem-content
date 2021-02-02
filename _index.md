@@ -3,7 +3,9 @@ description: The Apache Software Foundation is an the all-volunteer non profit o
 layout: stand
 logo: stands/the_apache_software_foundation/logo.png
 new_this_year: 238 Apache Projects, sub-projects, incubating podlings, and their communities produced nearly 3,500 releases across dozens of categories. Our projects cover the whole range&#58; Big Data, Blockchain, Build Management, Cloud Computing, Content, Cryptography, Enterprise Resource Planning, FinTech, Identity Management, IoT, Machine Learning, Messaging, Natural Language Processing, Operating Systems, Programming Languages, Servers, Services Framework, Templating, Web Conferencing, Web Crawlers, Web Frameworks, and more. 
-showcase: Showcase - The ASF develops, shepherds, and incubates hundreds of freely-available, enterprise-grade projects that serve as the backbone for some of the most visible and widely used applications in computing today. Through the ASF's merit-based process known as "The Apache Way," more than 800 individual volunteer Members and 8,000+ code Committers across six continents successfully collaborate on innovations in Artificial Intelligence and Deep Learning, Big Data, Build Management, Cloud Computing, Content Management, DevOps, IoT and Edge Computing, Mobile, Servers, and Web Frameworks, among other categories.
+showcase:  |
+    <img src="/stands/the_apache_software_foundation/logo.png" alt="Apache Software Foundation logo" style="max-width: 100%" />
+    <p>The ASF develops, shepherds, and incubates hundreds of freely-available, enterprise-grade projects that serve as the backbone for some of the most visible and widely used applications in computing today. Through the ASF's merit-based process known as "The Apache Way," more than 800 individual volunteer Members and 8,000+ code Committers across six continents successfully collaborate on innovations in Artificial Intelligence and Deep Learning, Big Data, Build Management, Cloud Computing, Content Management, DevOps, IoT and Edge Computing, Mobile, Servers, and Web Frameworks, among other categories.</p>
 themes:
 - Community advocacy
 title: The Apache Software Foundation
