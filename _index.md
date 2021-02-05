@@ -5,7 +5,7 @@ logo: stands/the_apache_software_foundation/logo.png
 new_this_year: |
     <video class="mb-3 mx-auto" style="max-width: 500px;"  controls>
     <source src="https://ftp.osuosl.org/pub/fosdem/2021/stands/apache/apache_video2.mp4" type="video/mp4">
-    Your browser dow not support this video.
+    Your browser does not support this video.
     </source>
     </video>
     <p> Whilst 2020 has been quite a challenging year world-wide, the all-volunteer Apache community has demonstrated commendable strength, resilience, and commitment to our tenet of "Community Over Code":
