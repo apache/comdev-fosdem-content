@@ -8,7 +8,7 @@ new_this_year: |
     Your browser does not support this video.
     </source>
     </video>
-    <p> Whilst 2020 has been quite a challenging year world-wide, the all-volunteer Apache community has demonstrated commendable strength, resilience, and commitment to our tenet of "Community Over Code":
+    <p> Whilst 2021 has been quite a challenging year world-wide, the all-volunteer Apache community has demonstrated commendable strength, resilience, and commitment to our tenet of "Community Over Code":
     <ul>
     <li>238 Apache Projects, sub-projects, incubating podlings, and their communities produced nearly <strong>3,500 releases</strong> across dozens of categories.
     </li>
